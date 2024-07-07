@@ -1,5 +1,5 @@
 This is a version library for learing Git.
 
+Git is a distributed version control system.
 
-
-This is the newly added content.
+Git is free software distributed under the GPL.
