@@ -1,2 +1,1 @@
-this is a version library for learning Git.
-why are you doing this?
+This is a version library for learnig Git.
